@@ -1,0 +1,14 @@
+{
+  "cameras": [
+    {
+      "hostname": "localhost",
+      "username": "camera",
+      "password": "camera"
+    }
+  ],
+  "authentication": {
+    "username": "user",
+    "password": "password"
+  },
+  "autoDiscovery": true
+}

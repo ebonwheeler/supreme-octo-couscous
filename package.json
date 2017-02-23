@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ebonwheeler/supreme-octo-couscous#readme",
   "dependencies": {
+    "config": "^1.25.1",
     "lodash": "^4.17.4",
     "onvif": "^0.5.3"
   }
